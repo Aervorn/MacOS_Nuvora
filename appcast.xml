@@ -3,6 +3,25 @@
   <channel>
     <title>Nuvora</title>
     <link>https://github.com/Aervorn/MacOS_Nuvora</link>
-    <!-- Réécrit par scripts/make-dmg.sh à chaque version publiée -->
+    <item>
+      <title>Nuvora 0.1.0</title>
+      <pubDate>Fri, 13 Nov 2026 07:58:56 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First version: infinite canvases organized in folders, text notes, voice notes with waveform and on-device transcript, images, videos, documents with preview, web links with preview.</li>
+<li>Links with direction, style, color and label; containers you can nest and collapse.</li>
+<li>Markdown notes with tasks, details panel, hand mode, color themes, canvas icons, ⌘K palette, list of containers.</li>
+<li>Floating bar, minimap, search by name and content, autosave continuously or every few minutes.</li>
+<li>Drag and drop and paste from the Finder and other apps, undo and redo, grid and snapping.</li>
+<li>Interface in English and French, light and dark mode, app icon for macOS 26, About window and Sparkle updates.</li></ul>]]></description>
+      <description xml:lang="fr"><![CDATA[<ul><li>Première version : canvas infinis rangés en dossiers, notes texte, notes vocales avec forme d'onde et transcription sur le Mac, images, vidéos, documents avec aperçu, liens web avec aperçu.</li>
+<li>Liens avec sens, style, couleur et libellé ; conteneurs imbriquables et réductibles.</li>
+<li>Notes en Markdown avec tâches, panneau de détails, mode main, thèmes de couleur, icônes des canvas, palette ⌘K, liste des conteneurs.</li>
+<li>Barre flottante, miniature, recherche par nom et par contenu, enregistrement en continu ou toutes les quelques minutes.</li>
+<li>Glisser-déposer et coller depuis le Finder et les autres apps, annuler et rétablir, grille et alignement.</li>
+<li>Interface en français et en anglais, mode clair et sombre, icône pensée pour macOS 26, fenêtre À propos et mises à jour Sparkle.</li></ul>]]></description>
+      <enclosure url="https://github.com/Aervorn/MacOS_Nuvora/releases/download/v0.1.0/Nuvora-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="ZSAxXXyzWvlQUf4bH+Qh91ClBHJLh9fKgE0DSNac5H35H9NuoFOFQoHoWPSWoyDXuhKOdm6HcAOt32vykSKkBQ==" length="4539040" />
+    </item>
   </channel>
 </rss>
