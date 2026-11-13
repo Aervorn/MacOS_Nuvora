@@ -1,0 +1,20 @@
+# Xcode
+xcuserdata/
+*.hmap
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+
+# Fichiers générés par XcodeGen (`xcodegen generate`)
+Nuvora.xcodeproj/
+Support/Info.plist
+
+# macOS
+.DS_Store
+
+# Builds
+build/
+dist/
+_to_delete/
